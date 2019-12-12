@@ -9,4 +9,9 @@
 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)   | [js](./js/deleteNode.js)|
 1266 | [访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)   | [js](./js/minTimeToVisitAllPoints.js)|
 1021 | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/)   | [js](./js/removeOuterParentheses.js)|
+1221 | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)   | [js](./js/balancedStringSplit.js)|
+1281 | [整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [js](./js/subtractProductAndSum.js)|
+461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)   | [js](./js/hammingDistance.js)|
+226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)   | [js](./js/invertTree.js)|
+
 
