@@ -13,5 +13,7 @@
 1281 | [整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)   | [js](./js/subtractProductAndSum.js)|
 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)   | [js](./js/hammingDistance.js)|
 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)   | [js](./js/invertTree.js)|
+1051 | [高度检查器](https://leetcode-cn.com/problems/height-checker/)   | [js](./js/heightChecker.js)|
+344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/)   | [js](./js/reverseString.js)|
 
 
