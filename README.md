@@ -18,7 +18,7 @@
 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/)   | [js](./js/reverseStr.js)|
 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)   | [js](./js/reverseWords.js)|
 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)   | [js](./js/selfDividingNumbers.js)|
-
+977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)   | [js](./js/sortedSquares.js)|
 
 
 
