@@ -21,3 +21,4 @@
 977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)   | [js](./js/sortedSquares.js)|
 709 | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)   | [js](./js/toLowerCase.js)|
 292 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/)   | [js](./js/canWinNim.js)|
+933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)   | [js](./js/recentCounter.js)|
