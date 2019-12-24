@@ -23,3 +23,4 @@
 292 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/)   | [js](./js/canWinNim.js)|
 933 | [最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)   | [js](./js/recentCounter.js)|
 1025 | [除数博弈](https://leetcode-cn.com/problems/divisor-game/)   | [js](./js/divisorGame.js)|
+561 | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)   | [js](./js/arrayPairSum.js)|
