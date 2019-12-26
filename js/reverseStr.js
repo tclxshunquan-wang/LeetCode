@@ -14,6 +14,7 @@
  */
 var reverseStr = function (s, k) {
   let strArr = []
+ 
   for (let index = 0; index < s.length && 2 * k * index < s.length; index++) {
     strArr.push(s.slice(2 * k * index, 2 * k * (index + 1)))
   }
