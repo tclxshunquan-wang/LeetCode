@@ -27,3 +27,4 @@
 905 | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)   | [js](./js/sortArrayByParity.js)|
 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)   | [js](./js/reverseList.js)|
 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)   | [js](./js/intersection.js)| 
+118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   | [js](./js/generate.js)| 
