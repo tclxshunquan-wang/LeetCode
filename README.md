@@ -29,3 +29,4 @@
 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)   | [js](./js/intersection.js)| 
 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   | [js](./js/generate.js)|  
 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)   | [js](./js/titleToNumber.js)| 
+961 | [重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)   | [js](./js/repeatedNTimes.js)| 
