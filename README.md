@@ -30,3 +30,4 @@
 118 | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)   | [js](./js/generate.js)|  
 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)   | [js](./js/titleToNumber.js)| 
 961 | [重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)   | [js](./js/repeatedNTimes.js)| 
+509 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)   | [js](./js/fib.js)| 
